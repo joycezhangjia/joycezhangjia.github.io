@@ -2,22 +2,25 @@
 ==Jia Zhang (张佳)
 
 ~~~
-{}{img_left}{photos/bio.jpg}{alt text}{131}{160}{http://routing.netlab.edu.cn/tiki-index.php?page=Jia+Zhang}
-4st-year PhD,\n [http://www.cs.tsinghua.edu.cn/ Department of Computer Science and Technology], \n [https://www.tsinghua.edu.cn/ Tsinghua University]\n
+{}{img_left}{photos/new_photo.jpg}{alt text}{131}{160}{http://routing.netlab.edu.cn/tiki-index.php?page=Jia+Zhang}
+5th-year PhD,\n [http://www.cs.tsinghua.edu.cn/ Department of Computer Science and Technology], \n [https://www.tsinghua.edu.cn/ Tsinghua University]\n
 Room 9-325, East Main Building, Tsinghua University, Beijing, China.\n
 Email: [mailto:joyce_zhangjia@126.com joyce_zhangjia@126.com]  [mailto:joycezhangjia@gmail.com joycezhangjia@gmail.com]  \n 
 ~~~
 
 == About me
-I'm currently a 4st-year PhD student in [http://routing.netlab.edu.cn/tiki-index.php Routing Group], with [http://www.cs.tsinghua.edu.cn/ Department of Computer Science and Technology], [https://www.tsinghua.edu.cn/ Tsinghua University], advised by Prof. [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu]. I received my B.Eng. degree in [http://www.ee.tsinghua.edu.cn/ Department of Electronic Engineering] at [https://www.tsinghua.edu.cn/ Tsinghua University] in 2018. 
+I'm currently a 5th-year PhD student in [http://routing.netlab.edu.cn/tiki-index.php Routing Group], with [http://www.cs.tsinghua.edu.cn/ Department of Computer Science and Technology], [https://www.tsinghua.edu.cn/ Tsinghua University], advised by Prof. [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu]. I received my B.Eng. degree in [http://www.ee.tsinghua.edu.cn/ Department of Electronic Engineering] at [https://www.tsinghua.edu.cn/ Tsinghua University] in 2018. 
 In Summer 2019, I was fortunate to visit [https://www.surrey.ac.uk/ University of Surrey] and worked with Prof. [https://www.surrey.ac.uk/people/ning-wang/ Ning Wang] at [https://www.surrey.ac.uk/institute-communication-systems/5g-innovation-centre/ 5G Innovation Centre]. 
 
 == Research
-My research interests include learning-based network systems and transport layer. In particular, I would like to improve the performance of transport layer under wireless networks.
+My research interests include learning-based network systems and transport layer. In particular, I would like to improve the performance of transport layer for mobile web services.
 
 [research.html Find out more].
 === Recent Publications
-. (WWW'21) *Jia Zhang*, [http://routing.netlab.edu.cn/tiki-index.php?page=Enhuan+Dong/ Enhuan Dong], [https://zilimeng.com/index.html/ Zili Meng], [http://routing.netlab.edu.cn/tiki-index.php?page=Yuan+Yang/ Yuan Yang], [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], [https://github.com/iyangsj/ Sijie Yang], Miao Zhang Yang Yue. WiseTrans: Adaptive Transport Protocol Selection for Mobile Web Service, TheWebConf 2021. ([WiseTrans_www21.pdf paper])
+. (ATC'23) *Jia Zhang*, Yixuan Zhang, [https://tsinghuadong.github.io/ Enhuan Dong], Yan Zhang, Shaorui Ren, [https://zilimeng.com/index.html/ Zili Meng], [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], Xiaotian Li, Zongzhi Hou, Zhicheng Yang, [http://www.net.informatik.uni-goettingen.de/?q=people/prof-dr-xiaoming-fu/ Xiaoming Fu],
+Bridging the Gap between QoE and QoS in Congestion Control: A Large-scale Mobile Web Service Perspective, USENIX ATC 2023, Boston, MA, USA. ([Floo_atc23.pdf paper])
+. (ToN'23) *Jia Zhang*, Shaorui Ren, [https://tsinghuadong.github.io/ Enhuan Dong], [https://zilimeng.com/index.html/ Zili Meng], [http://routing.netlab.edu.cn/tiki-index.php?page=Yuan+Yang/ Yuan Yang], [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], [https://github.com/iyangsj/ Sijie Yang], Miao Zhang Yang Yue. Reducing Mobile Web Latency through Adaptively Selecting Transport Protocol, IEEE/ACM Transactions on Networking (ToN), 2023. ([wisetrans-ton23 paper])
+. (WWW'21) *Jia Zhang*, [https://tsinghuadong.github.io/ Enhuan Dong], [https://zilimeng.com/index.html/ Zili Meng], [http://routing.netlab.edu.cn/tiki-index.php?page=Yuan+Yang/ Yuan Yang], [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], [https://github.com/iyangsj/ Sijie Yang], Miao Zhang Yang Yue. WiseTrans: Adaptive Transport Protocol Selection for Mobile Web Service, TheWebConf 2021. ([WiseTrans_www21.pdf paper])
 . (ToN’21) [https://zilimeng.com/index.html/ Zili Meng], Yaning Guo, [https://www.linkedin.com/in/%E9%80%B8%E6%98%95-%E6%B2%88-59a195175/ Yixin Shen], [http://routing.netlab.edu.cn/tiki-index.php?page=Jing+Chen/ Jing Chen], [https://www.linkedin.com/in/chao-zhou-91749769// Chao Zhou], [http://routing.netlab.edu.cn/tiki-index.php?page=Minhu+Wang/ Minhu Wang], *Jia Zhang*, [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], [https://chensun-me.github.io/ Chen Sun], [http://people.cs.clemson.edu/~hongxih/ Hongxin Hu],
 Practically Deploying Heavyweight Adaptive Bitrate Algorithms With Teacher-Student Learning,
 IEEE/ACM Transactions on Networking (ToN), 2021. ([https://zilimeng.com/papers/pitree-ton21.pdf paper])([https://transys.io/pitree website]) 
