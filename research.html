@@ -23,7 +23,7 @@
 </div>
 <h2>Research Interest</h2>
 <ul>
-<li><p>Learning-based Network Systems</p>
+<li><p>Mobile Web Services</p>
 </li>
 </ul>
 <ul>
@@ -31,11 +31,16 @@
 </li>
 </ul>
 <ul>
-<li><p>Wireless Networks <br /></p>
+<li><p>Learning-based Network Systems<br /></p>
 </li>
 </ul>
 <h2>Publications</h2>
 <ul>
+<li><p>(ATC&rsquo;23) <b>Jia Zhang</b>, Yixuan Zhang, <a href="https://tsinghuadong.github.io/">Enhuan Dong</a>, Yan Zhang, Shaorui Ren, <a href="https://zilimeng.com/index.html/">Zili Meng</a>, <a href="http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/">Mingwei Xu</a>, Xiaotian Li, Zongzhi Hou, Zhicheng Yang, <a href="http://www.net.informatik.uni-goettingen.de/?q=people/prof-dr-xiaoming-fu/">Xiaoming Fu</a>,
+Bridging the Gap between QoE and QoS in Congestion Control: A Large-scale Mobile Web Service Perspective, USENIX ATC 2023, Boston, MA, USA. (<a href="Floo_atc23.pdf">paper</a>)</p>
+</li>
+<li><p>(ToN&rsquo;23) <b>Jia Zhang</b>, Shaorui Ren, <a href="https://tsinghuadong.github.io/">Enhuan Dong</a>, <a href="https://zilimeng.com/index.html/">Zili Meng</a>, <a href="http://routing.netlab.edu.cn/tiki-index.php?page=Yuan+Yang/">Yuan Yang</a>, <a href="http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/">Mingwei Xu</a>, <a href="https://github.com/iyangsj/">Sijie Yang</a>, Miao Zhang Yang Yue. Reducing Mobile Web Latency through Adaptively Selecting Transport Protocol, IEEE/ACM Transactions on Networking (ToN), 2023. (<a href="wisetrans-ton23">paper</a>)</p>
+</li>
 <li><p>(WWW&rsquo;21) <b>Jia Zhang</b>, <a href="http://routing.netlab.edu.cn/tiki-index.php?page=Enhuan+Dong/">Enhuan Dong</a>, <a href="https://zilimeng.com/index.html/">Zili Meng</a>, <a href="http://routing.netlab.edu.cn/tiki-index.php?page=Yuan+Yang/">Yuan Yang</a>, <a href="http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/">Mingwei Xu</a>, <a href="https://github.com/iyangsj/">Sijie Yang</a>, Miao Zhang Yang Yue. WiseTrans: Adaptive Transport Protocol Selection for Mobile Web Service, TheWebConf 2021. (<a href="WiseTrans_www21.pdf">paper</a>)</p>
 </li>
 <li><p>(ToN’21) <a href="https://zilimeng.com/index.html/">Zili Meng</a>, Yaning Guo, <a href="https://www.linkedin.com/in/%E9%80%B8%E6%98%95-%E6%B2%88-59a195175/">Yixin Shen</a>, <a href="http://routing.netlab.edu.cn/tiki-index.php?page=Jing+Chen/">Jing Chen</a>, <a href="https://www.linkedin.com/in/chao-zhou-91749769//">Chao Zhou</a>, <a href="http://routing.netlab.edu.cn/tiki-index.php?page=Minhu+Wang/">Minhu Wang</a>, <b>Jia Zhang</b>, <a href="http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/">Mingwei Xu</a>, <a href="https://chensun-me.github.io/">Chen Sun</a>, <a href="http://people.cs.clemson.edu/~hongxih/">Hongxin Hu</a>,
@@ -47,6 +52,10 @@ IEEE/ACM Transactions on Networking (ToN), 2021. (<a href="https://zilimeng.com/
 </li>
 </ul>
 <h2>Research Experience </h2>
+<h3>Bridging the Gap between QoE and QoS in Congestion Control: A Large-scale Mobile Web Service Perspective (ATC&rsquo;23)</h3>
+<p>To improve the user experience of mobile web services, various congestion control algorithms (CCAs) have been proposed, yet the performance of the application is still unsatisfactory. We argue that the suboptimal performance comes from the gap between what the application needs (i.e., Quality of Experience (QoE)) and what the current CCA is optimizing (i.e., Quality of Service (QoS)). However, optimizing QoE for CCAs is extremely challenging due to the convoluted relationship and mismatched timescale between QoE and QoS. To bridge the gap between QoE and QoS for CCAs, we propose Floo, a new QoE-oriented congestion control selection mechanism, as a shim layer between CCAs and applications to address the challenges above. Floo targets request completion time as QoE, and conveys the optimization goal of QoE to CCAs by always selecting the most appropriate CCA in the runtime. Floo further adopts reinforcement learning to capture the complexity in CCA selection and supports smooth CCA switching during transmission. We implement Floo in a popular mobile web service application online. Through extensive experiments in production environments and on various locally emulated network conditions, we demonstrate that Floo improves QoE by about 14.3% on average.<br /></p>
+<h3>Reducing Mobile Web Latency Through Adaptively Selecting Transport Protocol (ToN&rsquo;23)</h3>
+<p>To improve the performance of mobile web services, a new transport protocol, QUIC, has been recently proposed as a substitute for TCP. However, with pros and cons of QUIC, it is challenging to decide whether and when to use QUIC in large-scale real-world mobile web services. Complex temporal correlation of network conditions, high user heterogeneity in a nationwide deployment, implementation diversity of QUIC variants limited, and resources on mobile devices all affect the selection of transport protocols. In this paper, we present WiseTrans, an adaptive transport protocol selection mechanism, to switch transport protocols for mobile web services online and improve the completion time of web requests. WiseTrans introduces machine learning techniques to deal with temporal heterogeneity, makes decisions with historical information to handle spatial heterogeneity, adopts an online learning method to keep pace with implementation variation, and switches transport protocols at the request level to reach high performance with acceptable overhead. We implement WiseTrans on two platforms (Android and iOS) in a popular mobile web service application of Baidu. Comprehensive experiments demonstrate that WiseTrans can reduce request completion time by up to 25.8% on average compared to the usage of a single protocol.<br /></p>
 <h3>WiseTrans: Adaptive Transport Protocol Selection for Mobile Web Service (WWW&rsquo;21)</h3>
 <p>To improve the performance of mobile web service, a new transport protocol, QUIC, has been recently proposed. However, for large-scale real-world deployments, deciding whether and when to use QUIC in mobile web service is challenging. Complex temporal correlation of network conditions, high spatial heterogeneity of users in a nationwide deployment, and limited resources on mobile devices all affect the selection of transport protocols. In this paper, we present WiseTrans to adaptively switch transport protocols for mobile web service online and improve the completion time of web requests.<br />
 WiseTrans introduces machine learning techniques to deal with temporal heterogeneity, makes decisions with historical information to handle spatial heterogeneity, and switches transport protocols at the request level to reach both high performance and acceptable overhead. We implement WiseTrans on two platforms (Android and iOS) in a popular mobile web service application of Baidu. Comprehensive experiments demonstrate that WiseTrans can reduce request completion time by up to 26.5% on average compared to the usage of a single protocol.<br /></p>
