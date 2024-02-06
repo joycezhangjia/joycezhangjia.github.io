@@ -23,19 +23,22 @@
 </div>
 <h2>Research Interest</h2>
 <ul>
+<li><p>Routing Security</p>
+</li>
+</ul>
+<ul>
 <li><p>Mobile Web Services</p>
 </li>
 </ul>
 <ul>
-<li><p>Transport Layer Performance Measurement and Improvement</p>
-</li>
-</ul>
-<ul>
-<li><p>Learning-based Network Systems<br /></p>
+<li><p>Transport Layer Performance Measurement and Improvement<br /></p>
 </li>
 </ul>
 <h2>Publications</h2>
 <ul>
+<li><p>(WWW&rsquo;24) <b>Jia Zhang</b>, Haitian Tong, <a href="https://tsinghuadong.github.io/">Enhuan Dong</a>, Xin Qian, <a href="http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/">Mingwei Xu</a>, Xiaotian Li, <a href="https://zilimeng.com/index.html/">Zili Meng</a>,
+Cold Start or Hot Start? Robust Slow Start in Congestion Control with A Priori Knowledge for Mobile Web Services, TheWebConf 2024.</p>
+</li>
 <li><p>(ATC&rsquo;23) <b>Jia Zhang</b>, Yixuan Zhang, <a href="https://tsinghuadong.github.io/">Enhuan Dong</a>, Yan Zhang, Shaorui Ren, <a href="https://zilimeng.com/index.html/">Zili Meng</a>, <a href="http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/">Mingwei Xu</a>, Xiaotian Li, Zongzhi Hou, Zhicheng Yang, <a href="http://www.net.informatik.uni-goettingen.de/?q=people/prof-dr-xiaoming-fu/">Xiaoming Fu</a>,
 Bridging the Gap between QoE and QoS in Congestion Control: A Large-scale Mobile Web Service Perspective, USENIX ATC 2023, Boston, MA, USA. (<a href="Floo_atc23.pdf">paper</a>)</p>
 </li>
@@ -52,6 +55,8 @@ IEEE/ACM Transactions on Networking (ToN), 2021. (<a href="https://zilimeng.com/
 </li>
 </ul>
 <h2>Research Experience </h2>
+<h3>Cold Start or Hot Start? Robust Slow Start in Congestion Control with A Priori Knowledge for Mobile Web Services (WWW&rsquo;24)</h3>
+<p>Mobile web services value a quick loading of contents in the first page, which is quantified by the above-the-fold time of the first page (first AFT) and is likely to fall into the slow start phase in congestion control. However, the widely deployed slow start mechanism is &lsquo;&lsquo;cold start&rsquo;&rsquo;, which manually hardcodes the parameters and is not suitable for the first AFT of heterogeneous mobile web services. We revisit the slow start mechanism and find that it could be optimized with a priori knowledge. However, blindly relying on a priori knowledge is not robust enough to handle the fluctuating mobile networks and unpredictable application traffic.  In this paper, we propose WiseStart, a &lsquo;&lsquo;hot-start-based&rsquo;&rsquo; slow start mechanism. WiseStart utilizes the priori knowledge to set the initial parameters, continuously probes the new connection to handle the fluctuating network conditions, and carefully adapts to the application-limit scenarios. We implement WiseStart in a popular mobile web service online in production. Comprehensive experiments demonstrate that WiseStart reduces the First AFT by 25.43% and the average RCT at connection establishment by 16.15% compared to the default slow start mechanism and other state-of-the-art baselines.<br /></p>
 <h3>Bridging the Gap between QoE and QoS in Congestion Control: A Large-scale Mobile Web Service Perspective (ATC&rsquo;23)</h3>
 <p>To improve the user experience of mobile web services, various congestion control algorithms (CCAs) have been proposed, yet the performance of the application is still unsatisfactory. We argue that the suboptimal performance comes from the gap between what the application needs (i.e., Quality of Experience (QoE)) and what the current CCA is optimizing (i.e., Quality of Service (QoS)). However, optimizing QoE for CCAs is extremely challenging due to the convoluted relationship and mismatched timescale between QoE and QoS. To bridge the gap between QoE and QoS for CCAs, we propose Floo, a new QoE-oriented congestion control selection mechanism, as a shim layer between CCAs and applications to address the challenges above. Floo targets request completion time as QoE, and conveys the optimization goal of QoE to CCAs by always selecting the most appropriate CCA in the runtime. Floo further adopts reinforcement learning to capture the complexity in CCA selection and supports smooth CCA switching during transmission. We implement Floo in a popular mobile web service application online. Through extensive experiments in production environments and on various locally emulated network conditions, we demonstrate that Floo improves QoE by about 14.3% on average.<br /></p>
 <h3>Reducing Mobile Web Latency Through Adaptively Selecting Transport Protocol (ToN&rsquo;23)</h3>
