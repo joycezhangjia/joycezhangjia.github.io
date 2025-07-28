@@ -17,8 +17,10 @@ My research interests include network security, transport layer and learning-bas
 
 [research.html Find out more].
 === Recent Publications
+. (CCS'25) Andong Chen, Yangyang Wang, *Jia Zhang*, [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu],
+Right the Ship: Assessing the Legitimacy of Invalid Routes in RPKI, CCS 2025.
 . (ISCC'24) [https://www.surrey.ac.uk/people/peng-qian/ Peng Qian], [https://www.surrey.ac.uk/people/ning-wang/ Ning Wang], Foh Chuan Heng, *Jia Zhang*, Carl Udora, Rahim Tafazolli,
-Enabling eBPF-Based Packet Duplication for Robust Volumetric Video Streaming, IEEE ISCC 2024. 
+Enabling eBPF-Based Packet Duplication for Robust Volumetric Video Streaming, IEEE ISCC 2024. ([ebpf_iscc24.pdf paper])
 . (WWW'24) *Jia Zhang*, Haitian Tong, [https://tsinghuadong.github.io/ Enhuan Dong], Xin Qian, [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], Xiaotian Li, [https://zilimeng.com/index.html/ Zili Meng],
 Cold Start or Hot Start? Robust Slow Start in Congestion Control with A Priori Knowledge for Mobile Web Services, TheWebConf 2024. ([wisestart_www24 paper])
 . (ATC'23) *Jia Zhang*, Yixuan Zhang, [https://tsinghuadong.github.io/ Enhuan Dong], Yan Zhang, Shaorui Ren, [https://zilimeng.com/index.html/ Zili Meng], [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], Xiaotian Li, Zongzhi Hou, Zhicheng Yang, [http://www.net.informatik.uni-goettingen.de/?q=people/prof-dr-xiaoming-fu/ Xiaoming Fu],
