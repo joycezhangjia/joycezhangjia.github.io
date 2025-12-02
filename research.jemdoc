@@ -9,9 +9,9 @@
 - Transport Layer Performance Measurement and Improvement\n
 
 == Publications
-- (ICNP'25) Shaorui Ren, *Jia Zhang<sup>#</sup>*, [https://tsinghuadong.github.io/ Enhuan Dong], [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], Yixuan Zhang, [https://caojh15.github.io/ Jiahao Cao], Jianping Wu,
+- (ICNP'25) Shaorui Ren, *Jia Zhang*, [https://tsinghuadong.github.io/ Enhuan Dong], [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], Yixuan Zhang, [https://caojh15.github.io/ Jiahao Cao], Jianping Wu,
 Undermining Delay-based QUIC Congestion Control: A Receiver-driven Attack via Crafted Host Delays, ICNP 2025.
-- (CCS'25) Andong Chen, Yangyang Wang, *Jia Zhang<sup>#</sup>*, [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu],
+- (CCS'25) Andong Chen, Yangyang Wang, *Jia Zhang*, [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu],
 Right the Ship: Assessing the Legitimacy of Invalid Routes in RPKI, CCS 2025. ([right_the_ship-ccs25.pdf paper])
 - (ISCC'24) [https://www.surrey.ac.uk/people/peng-qian/ Peng Qian], [https://www.surrey.ac.uk/people/ning-wang/ Ning Wang], Foh Chuan Heng, *Jia Zhang*, Carl Udora, Rahim Tafazolli,
 Enabling eBPF-Based Packet Duplication for Robust Volumetric Video Streaming, IEEE ISCC 2024. ([ebpf_iscc24.pdf paper])
