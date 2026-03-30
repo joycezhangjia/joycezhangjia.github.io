@@ -9,7 +9,7 @@ Email: [mailto:joyce_zhangjia@126.com joyce_zhangjia@126.com]  [mailto:joycezhan
 ~~~
 
 == About me
-I'm currently an Assistant Research Professor at Zhongguancun Laboratory. I received my Ph.D. degree in [http://routing.netlab.edu.cn/tiki-index.php Routing Group], with [http://www.cs.tsinghua.edu.cn/ Department of Computer Science and Technology], [https://www.tsinghua.edu.cn/ Tsinghua University], in 2023, advised by Prof. [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu]. I received my B.Eng. degree in [http://www.ee.tsinghua.edu.cn/ Department of Electronic Engineering] at [https://www.tsinghua.edu.cn/ Tsinghua University] in 2018. 
+I'm currently an Associate Research Professor at Zhongguancun Laboratory. I received my Ph.D. degree in [http://routing.netlab.edu.cn/tiki-index.php Routing Group], with [http://www.cs.tsinghua.edu.cn/ Department of Computer Science and Technology], [https://www.tsinghua.edu.cn/ Tsinghua University], in 2023, advised by Prof. [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu]. I received my B.Eng. degree in [http://www.ee.tsinghua.edu.cn/ Department of Electronic Engineering] at [https://www.tsinghua.edu.cn/ Tsinghua University] in 2018. 
 In Summer 2019, I was fortunate to visit [https://www.surrey.ac.uk/ University of Surrey] and worked with Prof. [https://www.surrey.ac.uk/people/ning-wang/ Ning Wang] at [https://www.surrey.ac.uk/institute-communication-systems/5g-innovation-centre/ 5G Innovation Centre]. 
 
 == Research
@@ -17,6 +17,8 @@ My research interests include network security, transport layer and learning-bas
 
 [research.html Find out more].
 === Recent Publications
+. (ICC'26) Yixuan Zhang, Shaorui Ren, [https://tsinghuadong.github.io/ Enhuan Dong], Haiping Wang, *Jia Zhang*, [https://zilimeng.com/index.html/ Zili Meng], [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], Shu Shi, Hebin Yu, Zhichen Xue, Yajie Peng, Xiaofei Pang, Jianping Wu, 
+Hermit: A Flow-Collaborative Transport Scheme for Multi-Source Video On-Demand Streaming, IEEE ICC 2026.
 . (INFOCOM'26) Yixuan Zhang, [https://zilimeng.com/index.html/ Zili Meng], [https://tsinghuadong.github.io/ Enhuan Dong], Yan Zhang, *Jia Zhang*, [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], Jianping Wu,
 Real-Time Video Gets a Fast Lane via Smart Queue Flushing at the Wireless Edge, IEEE INFOCOM 2026.
 . (ICNP'25) Shaorui Ren, *Jia Zhang*, [https://tsinghuadong.github.io/ Enhuan Dong], [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], Yixuan Zhang, [https://caojh15.github.io/ Jiahao Cao], Jianping Wu,
@@ -37,4 +39,4 @@ IEEE/ACM Transactions on Networking (ToN), 2021. ([https://zilimeng.com/papers/p
 . (SIGIR’17) [https://www.microsoft.com/en-us/research/people/fangzwu/ Fangzhao Wu], *Jia Zhang*, Zhigang Yuan, Sixing Wu, [http://thungnlab.cn/members/yongfeng-huang.html Yongfeng Huang], and Jun Yan.2017. Sentence-level sentiment classification with weak supervision. In Proceedings of the 40thInternational ACM SIGIR. ([https://dl.acm.org/doi/pdf/10.1145/3077136.3080693 paper])
 \n
 
-[CV_Jia_Zhang.pdf A brief cv].
+[CV_Jia.pdf A brief cv].
