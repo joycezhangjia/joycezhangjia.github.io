@@ -2,18 +2,21 @@
 ==Jia Zhang (张佳)
 
 ~~~
-{}{img_left}{photos/new_photo.jpg}{alt text}{131}{160}{http://routing.netlab.edu.cn/tiki-index.php?page=Jia+Zhang}
-Associate Research Professor\n Zhongguancun Laboratory\n
-Beijing, China.\n
+{}{img_left}{photos/new_photo.jpg}{Jia Zhang}{120}{160}{https://joycezhangjia.github.io/}
+Research Assistant Professor\n
+[https://www.polyu.edu.hk/comp/ Department of Computing]\n
+[https://www.polyu.edu.hk/iherd/ Institute for Higher Education Research and Development (IHERD)]\n
+[https://www.polyu.edu.hk/ The Hong Kong Polytechnic University]\n
+Hong Kong SAR\n
 Email: [mailto:joyce_zhangjia@126.com joyce_zhangjia@126.com]  [mailto:joycezhangjia@gmail.com joycezhangjia@gmail.com]  \n 
 ~~~
 
 == About me
-I'm currently an Associate Research Professor at Zhongguancun Laboratory. I received my Ph.D. degree in [http://routing.netlab.edu.cn/tiki-index.php Routing Group], with [http://www.cs.tsinghua.edu.cn/ Department of Computer Science and Technology], [https://www.tsinghua.edu.cn/ Tsinghua University], in 2023, advised by Prof. [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu]. I received my B.Eng. degree in [http://www.ee.tsinghua.edu.cn/ Department of Electronic Engineering] at [https://www.tsinghua.edu.cn/ Tsinghua University] in 2018. 
+I'm currently a Research Assistant Professor jointly affiliated with the [https://www.polyu.edu.hk/comp/ Department of Computing] and the [https://www.polyu.edu.hk/iherd/ Institute for Higher Education Research and Development (IHERD)] at [https://www.polyu.edu.hk/ The Hong Kong Polytechnic University]. Before joining PolyU, I was an Associate Research Professor and a Research Assistant Professor at Zhongguancun Laboratory. I received my Ph.D. degree from the [http://www.cs.tsinghua.edu.cn/ Department of Computer Science and Technology], [https://www.tsinghua.edu.cn/ Tsinghua University], in 2023, advised by Prof. [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu]. I received my B.Eng. degree from the [http://www.ee.tsinghua.edu.cn/ Department of Electronic Engineering] at [https://www.tsinghua.edu.cn/ Tsinghua University] in 2018.
 In Summer 2019, I was fortunate to visit [https://www.surrey.ac.uk/ University of Surrey] and worked with Prof. [https://www.surrey.ac.uk/people/ning-wang/ Ning Wang] at [https://www.surrey.ac.uk/institute-communication-systems/5g-innovation-centre/ 5G Innovation Centre]. 
 
 == Research
-My research interests include network security, transport layer and learning-based network systems.
+My current research interests span AI for education and computer networks, with a focus on AI-empowered teaching and learning, transport protocols, routing security, and low-latency networked systems.
 
 [research.html Find out more].
 === Recent Publications
@@ -28,15 +31,15 @@ Right the Ship: Assessing the Legitimacy of Invalid Routes in RPKI, CCS 2025. ([
 . (ISCC'24) [https://www.surrey.ac.uk/people/peng-qian/ Peng Qian], [https://www.surrey.ac.uk/people/ning-wang/ Ning Wang], Foh Chuan Heng, *Jia Zhang*, Carl Udora, Rahim Tafazolli,
 Enabling eBPF-Based Packet Duplication for Robust Volumetric Video Streaming, IEEE ISCC 2024. ([ebpf_iscc24.pdf paper])
 . (WWW'24) *Jia Zhang*, Haitian Tong, [https://tsinghuadong.github.io/ Enhuan Dong], Xin Qian, [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], Xiaotian Li, [https://zilimeng.com/index.html/ Zili Meng],
-Cold Start or Hot Start? Robust Slow Start in Congestion Control with A Priori Knowledge for Mobile Web Services, TheWebConf 2024. ([wisestart_www24 paper])
+Cold Start or Hot Start? Robust Slow Start in Congestion Control with A Priori Knowledge for Mobile Web Services, The Web Conference 2024. ([wisestart_www24.pdf paper])
 . (ATC'23) *Jia Zhang*, Yixuan Zhang, [https://tsinghuadong.github.io/ Enhuan Dong], Yan Zhang, Shaorui Ren, [https://zilimeng.com/index.html/ Zili Meng], [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], Xiaotian Li, Zongzhi Hou, Zhicheng Yang, [http://www.net.informatik.uni-goettingen.de/?q=people/prof-dr-xiaoming-fu/ Xiaoming Fu],
 Bridging the Gap between QoE and QoS in Congestion Control: A Large-scale Mobile Web Service Perspective, USENIX ATC 2023, Boston, MA, USA. ([Floo_atc23.pdf paper])
-. (ToN'23) *Jia Zhang*, Shaorui Ren, [https://tsinghuadong.github.io/ Enhuan Dong], [https://zilimeng.com/index.html/ Zili Meng], [http://routing.netlab.edu.cn/tiki-index.php?page=Yuan+Yang/ Yuan Yang], [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], [https://github.com/iyangsj/ Sijie Yang], Miao Zhang Yang Yue. Reducing Mobile Web Latency through Adaptively Selecting Transport Protocol, IEEE/ACM Transactions on Networking (ToN), 2023. ([wisetrans-ton23 paper])
-. (WWW'21) *Jia Zhang*, [https://tsinghuadong.github.io/ Enhuan Dong], [https://zilimeng.com/index.html/ Zili Meng], [http://routing.netlab.edu.cn/tiki-index.php?page=Yuan+Yang/ Yuan Yang], [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], [https://github.com/iyangsj/ Sijie Yang], Miao Zhang Yang Yue. WiseTrans: Adaptive Transport Protocol Selection for Mobile Web Service, TheWebConf 2021. ([WiseTrans_www21.pdf paper])
+. (ToN'23) *Jia Zhang*, Shaorui Ren, [https://tsinghuadong.github.io/ Enhuan Dong], [https://zilimeng.com/index.html/ Zili Meng], [http://routing.netlab.edu.cn/tiki-index.php?page=Yuan+Yang/ Yuan Yang], [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], [https://github.com/iyangsj/ Sijie Yang], Miao Zhang, Yang Yue. Reducing Mobile Web Latency through Adaptively Selecting Transport Protocol, IEEE/ACM Transactions on Networking (ToN), 2023. ([wisetrans-ton23.pdf paper])
+. (WWW'21) *Jia Zhang*, [https://tsinghuadong.github.io/ Enhuan Dong], [https://zilimeng.com/index.html/ Zili Meng], [http://routing.netlab.edu.cn/tiki-index.php?page=Yuan+Yang/ Yuan Yang], [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], [https://github.com/iyangsj/ Sijie Yang], Miao Zhang, Yang Yue. WiseTrans: Adaptive Transport Protocol Selection for Mobile Web Service, The Web Conference 2021. ([WiseTrans_www21.pdf paper])
 . (ToN’21) [https://zilimeng.com/index.html/ Zili Meng], Yaning Guo, [https://www.linkedin.com/in/%E9%80%B8%E6%98%95-%E6%B2%88-59a195175/ Yixin Shen], [http://routing.netlab.edu.cn/tiki-index.php?page=Jing+Chen/ Jing Chen], [https://www.linkedin.com/in/chao-zhou-91749769// Chao Zhou], [http://routing.netlab.edu.cn/tiki-index.php?page=Minhu+Wang/ Minhu Wang], *Jia Zhang*, [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], [https://chensun-me.github.io/ Chen Sun], [http://people.cs.clemson.edu/~hongxih/ Hongxin Hu],
 Practically Deploying Heavyweight Adaptive Bitrate Algorithms With Teacher-Student Learning,
 IEEE/ACM Transactions on Networking (ToN), 2021. ([https://zilimeng.com/papers/pitree-ton21.pdf paper])([https://transys.io/pitree website]) 
-. (SIGIR’17) [https://www.microsoft.com/en-us/research/people/fangzwu/ Fangzhao Wu], *Jia Zhang*, Zhigang Yuan, Sixing Wu, [http://thungnlab.cn/members/yongfeng-huang.html Yongfeng Huang], and Jun Yan.2017. Sentence-level sentiment classification with weak supervision. In Proceedings of the 40thInternational ACM SIGIR. ([https://dl.acm.org/doi/pdf/10.1145/3077136.3080693 paper])
+. (SIGIR'17) [https://www.microsoft.com/en-us/research/people/fangzwu/ Fangzhao Wu], *Jia Zhang*, Zhigang Yuan, Sixing Wu, [http://thungnlab.cn/members/yongfeng-huang.html Yongfeng Huang], and Jun Yan. Sentence-level Sentiment Classification with Weak Supervision. In Proceedings of the 40th International ACM SIGIR Conference, 2017. ([https://dl.acm.org/doi/pdf/10.1145/3077136.3080693 paper])
 \n
 
 [CV_Jia.pdf A brief cv].
