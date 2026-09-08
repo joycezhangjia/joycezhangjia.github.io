@@ -503,6 +503,17 @@ li p, dd p {
     text-decoration: none;
 }
 
+.research-actions a.research-live-link {
+    border-color: var(--blue);
+    background: var(--blue);
+    color: #fff;
+}
+
+.research-actions a.research-live-link:hover {
+    border-color: var(--blue-dark);
+    background: var(--blue-dark);
+}
+
 strong, b {
     color: #172d3e;
     font-weight: 700;

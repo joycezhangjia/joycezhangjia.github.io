@@ -140,7 +140,7 @@ def standardconf():
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   
   [defaultcss]
-  <link rel="stylesheet" href="jemdoc.css?v=20260908-figures" type="text/css" />
+  <link rel="stylesheet" href="jemdoc.css?v=20260908-hecate-link" type="text/css" />
   
   [windowtitle]
   # used in header for window title.
