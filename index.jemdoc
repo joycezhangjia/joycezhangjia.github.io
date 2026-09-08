@@ -8,7 +8,7 @@ Research Assistant Professor\n
 [https://www.polyu.edu.hk/iherd/ Institute for Higher Education Research and Development (IHERD)]\n
 [https://www.polyu.edu.hk/ The Hong Kong Polytechnic University]\n
 Hong Kong SAR\n
-Email: [mailto:joyce_zhangjia@126.com joyce_zhangjia@126.com]  [mailto:joycezhangjia@gmail.com joycezhangjia@gmail.com]  \n 
+Email: [mailto:joyce_zhangjia@126.com joyce_zhangjia@126.com] · [mailto:joycezhangjia@gmail.com joycezhangjia@gmail.com]  \n
 ~~~
 
 == About me
@@ -18,31 +18,21 @@ In Summer 2019, I was fortunate to visit [https://www.surrey.ac.uk/ University o
 == Research
 My current research interests span AI for education and computer networks, with a focus on AI-empowered teaching and learning, transport protocols, routing security, and low-latency networked systems.
 
-[research.html Find out more].
+[research.html Explore research projects].
 === Recent Publications
 . (TIFS'26) *Jia Zhang*, Shaorui Ren, Andong Chen, Shuhe Wang, Yangyang Wang, [https://caojh15.github.io/ Jiahao Cao], [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], Jiayu Zheng,
 From Unknown to Known: Enhancing BGP Route Origin Validation with Multi-Source Data, IEEE Transactions on Information Forensics and Security (TIFS), 2026. (Accepted)
 . (ICC'26) Yixuan Zhang, Shaorui Ren, [https://tsinghuadong.github.io/ Enhuan Dong], Haiping Wang, *Jia Zhang*, [https://zilimeng.com/index.html/ Zili Meng], [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], Shu Shi, Hebin Yu, Zhichen Xue, Yajie Peng, Xiaofei Pang, Jianping Wu, 
-Hermit: A Flow-Collaborative Transport Scheme for Multi-Source Video On-Demand Streaming, IEEE ICC 2026. ([hermit-icc26.pdf paper])
+Hermit: A Flow-Collaborative Transport Scheme for Multi-Source Video On-Demand Streaming, IEEE ICC 2026. [hermit-icc26.pdf PDF]
 . (INFOCOM'26) Yixuan Zhang, [https://zilimeng.com/index.html/ Zili Meng], [https://tsinghuadong.github.io/ Enhuan Dong], Yan Zhang, *Jia Zhang*, [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], Jianping Wu,
-Real-Time Video Gets a Fast Lane via Smart Queue Flushing at the Wireless Edge, IEEE INFOCOM 2026. ([gecko-infocom26.pdf paper])
+Real-Time Video Gets a Fast Lane via Smart Queue Flushing at the Wireless Edge, IEEE INFOCOM 2026. [gecko-infocom26.pdf PDF]
 . (ICNP'25) Shaorui Ren, *Jia Zhang*{{<sup>*</sup>}}, [https://tsinghuadong.github.io/ Enhuan Dong], [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], Yixuan Zhang, [https://caojh15.github.io/ Jiahao Cao], Jianping Wu,
-Undermining Delay-based QUIC Congestion Control: A Receiver-driven Attack via Crafted Host Delays, ICNP 2025. ([qudit-icnp25.pdf paper])
+Undermining Delay-based QUIC Congestion Control: A Receiver-driven Attack via Crafted Host Delays, ICNP 2025. [qudit-icnp25.pdf PDF]
 . (CCS'25) Andong Chen, Yangyang Wang, *Jia Zhang*{{<sup>*</sup>}}, [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu],
-Right the Ship: Assessing the Legitimacy of Invalid Routes in RPKI, CCS 2025. ([right_the_ship-ccs25.pdf paper])
+Right the Ship: Assessing the Legitimacy of Invalid Routes in RPKI, CCS 2025. [right_the_ship-ccs25.pdf PDF]
 . (ISCC'24) [https://www.surrey.ac.uk/people/peng-qian/ Peng Qian], [https://www.surrey.ac.uk/people/ning-wang/ Ning Wang], Foh Chuan Heng, *Jia Zhang*, Carl Udora, Rahim Tafazolli,
-Enabling eBPF-Based Packet Duplication for Robust Volumetric Video Streaming, IEEE ISCC 2024. ([ebpf_iscc24.pdf paper])
-. (WWW'24) *Jia Zhang*, Haitian Tong, [https://tsinghuadong.github.io/ Enhuan Dong], Xin Qian, [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], Xiaotian Li, [https://zilimeng.com/index.html/ Zili Meng],
-Cold Start or Hot Start? Robust Slow Start in Congestion Control with A Priori Knowledge for Mobile Web Services, The Web Conference 2024. ([wisestart_www24.pdf paper])
-. (ATC'23) *Jia Zhang*, Yixuan Zhang, [https://tsinghuadong.github.io/ Enhuan Dong], Yan Zhang, Shaorui Ren, [https://zilimeng.com/index.html/ Zili Meng], [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], Xiaotian Li, Zongzhi Hou, Zhicheng Yang, [http://www.net.informatik.uni-goettingen.de/?q=people/prof-dr-xiaoming-fu/ Xiaoming Fu],
-Bridging the Gap between QoE and QoS in Congestion Control: A Large-scale Mobile Web Service Perspective, USENIX ATC 2023, Boston, MA, USA. ([Floo_atc23.pdf paper])
-. (ToN'23) *Jia Zhang*, Shaorui Ren, [https://tsinghuadong.github.io/ Enhuan Dong], [https://zilimeng.com/index.html/ Zili Meng], [http://routing.netlab.edu.cn/tiki-index.php?page=Yuan+Yang/ Yuan Yang], [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], [https://github.com/iyangsj/ Sijie Yang], Miao Zhang, Yang Yue. Reducing Mobile Web Latency through Adaptively Selecting Transport Protocol, IEEE/ACM Transactions on Networking (ToN), 2023. ([wisetrans-ton23.pdf paper])
-. (WWW'21) *Jia Zhang*, [https://tsinghuadong.github.io/ Enhuan Dong], [https://zilimeng.com/index.html/ Zili Meng], [http://routing.netlab.edu.cn/tiki-index.php?page=Yuan+Yang/ Yuan Yang], [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], [https://github.com/iyangsj/ Sijie Yang], Miao Zhang, Yang Yue. WiseTrans: Adaptive Transport Protocol Selection for Mobile Web Service, The Web Conference 2021. ([WiseTrans_www21.pdf paper])
-. (ToN’21) [https://zilimeng.com/index.html/ Zili Meng], Yaning Guo, [https://www.linkedin.com/in/%E9%80%B8%E6%98%95-%E6%B2%88-59a195175/ Yixin Shen], [http://routing.netlab.edu.cn/tiki-index.php?page=Jing+Chen/ Jing Chen], [https://www.linkedin.com/in/chao-zhou-91749769// Chao Zhou], [http://routing.netlab.edu.cn/tiki-index.php?page=Minhu+Wang/ Minhu Wang], *Jia Zhang*, [http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu/ Mingwei Xu], [https://chensun-me.github.io/ Chen Sun], [http://people.cs.clemson.edu/~hongxih/ Hongxin Hu],
-Practically Deploying Heavyweight Adaptive Bitrate Algorithms With Teacher-Student Learning,
-IEEE/ACM Transactions on Networking (ToN), 2021. ([https://zilimeng.com/papers/pitree-ton21.pdf paper])([https://transys.io/pitree website]) 
-. (SIGIR'17) [https://www.microsoft.com/en-us/research/people/fangzwu/ Fangzhao Wu], *Jia Zhang*, Zhigang Yuan, Sixing Wu, [http://thungnlab.cn/members/yongfeng-huang.html Yongfeng Huang], and Jun Yan. Sentence-level Sentiment Classification with Weak Supervision. In Proceedings of the 40th International ACM SIGIR Conference, 2017. ([https://dl.acm.org/doi/pdf/10.1145/3077136.3080693 paper])
+Enabling eBPF-Based Packet Duplication for Robust Volumetric Video Streaming, IEEE ISCC 2024. [ebpf_iscc24.pdf PDF]
 {{<sup>*</sup>}} Corresponding author.
 \n
 
-[CV_Jia.pdf A brief cv].
+[research.html View all publications and research projects] · [CV_Jia.pdf Curriculum Vitae (PDF)]
