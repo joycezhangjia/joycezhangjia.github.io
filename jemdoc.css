@@ -276,6 +276,84 @@ li p, dd p {
 #layout-content > ol > li,
 #layout-content > ul > li { margin-bottom: 0.36rem; }
 
+/* Publication lists: title first, authors second, venue and links last. */
+#layout-content > ol {
+    margin-top: 0.85rem;
+    padding-left: 0;
+    list-style: none;
+}
+
+#layout-content > ol > li {
+    margin: 0 0 0.85rem;
+    padding: 1rem 1.1rem;
+    border: 1px solid var(--line);
+    border-left: 3px solid #9fb6c5;
+    border-radius: 7px;
+    background: var(--paper);
+    transition: border-color 140ms ease, background-color 140ms ease;
+}
+
+#layout-content > ol > li:hover {
+    border-color: #c5d3dc;
+    border-left-color: var(--blue);
+    background: #fbfcfd;
+}
+
+#layout-content > ol > li p {
+    margin: 0;
+    line-height: 1.5;
+}
+
+.pub-title {
+    display: inline-block;
+    margin-bottom: 0.22rem;
+    color: var(--navy);
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.05rem;
+    font-weight: 700;
+    line-height: 1.42;
+}
+
+.pub-authors {
+    display: inline-block;
+    margin-bottom: 0.18rem;
+    color: #52616c;
+    font-size: 0.93rem;
+    line-height: 1.55;
+}
+
+.pub-authors b { color: var(--ink); }
+
+.pub-meta {
+    display: inline-block;
+    color: var(--muted);
+    font-size: 0.89rem;
+    line-height: 1.55;
+}
+
+.pub-venue {
+    display: inline-block;
+    margin-right: 0.38rem;
+    padding: 0.07rem 0.42rem;
+    border-radius: 4px;
+    background: #eaf0f4;
+    color: var(--navy);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 0.8rem;
+    font-weight: 750;
+    letter-spacing: 0.02em;
+    line-height: 1.45;
+    white-space: nowrap;
+}
+
+.pub-status {
+    color: var(--burgundy);
+    font-weight: 700;
+}
+
+.pub-meta a[href$=".pdf"],
+.pub-meta .pub-link { margin-left: 0.15rem; }
+
 strong, b {
     color: #172d3e;
     font-weight: 700;
@@ -409,6 +487,15 @@ div#footer-text {
     ul, ol { padding-left: 1.25rem; }
 
     li p, dd p { line-height: 1.58; }
+
+    #layout-content > ol { padding-left: 0; }
+
+    #layout-content > ol > li {
+        margin-bottom: 0.72rem;
+        padding: 0.88rem 0.9rem;
+    }
+
+    .pub-title { font-size: 1rem; }
 }
 
 @media print {
