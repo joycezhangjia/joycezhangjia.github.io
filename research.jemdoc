@@ -19,6 +19,7 @@ My work focuses on secure, intelligent, and low-latency networked systems. Below
   <div class="research-card">
     <div class="research-figure">
       <img src="photos/research/hecate-overview.png" alt="Hecate multi-source route origin validation architecture" />
+      <div class="research-figure-caption">Hecate: Multi-Source Route Origin Validation</div>
     </div>
     <div class="research-copy">
       <div class="research-kicker">Routing Security</div>
@@ -32,6 +33,7 @@ My work focuses on secure, intelligent, and low-latency networked systems. Below
   <div class="research-card research-card-wide">
     <div class="research-figure">
       <img src="photos/research/qudit-attack-flow.png" alt="QUDIT receiver-driven attack flow against delay-based QUIC congestion control" />
+      <div class="research-figure-caption">QUDIT: Receiver-Driven Attack Workflow</div>
     </div>
     <div class="research-copy">
       <div class="research-kicker">Transport Security</div>
@@ -45,7 +47,8 @@ My work focuses on secure, intelligent, and low-latency networked systems. Below
 
   <div class="research-card">
     <div class="research-figure">
-      <img src="photos/research/floo-overview.png" alt="Floo architecture for application-aware congestion control selection" />
+      <img src="photos/research/wisetrans-overview.png" alt="WiseTrans architecture for adaptive transport protocol selection" />
+      <div class="research-figure-caption">WiseTrans: Adaptive Transport Protocol Selection</div>
     </div>
     <div class="research-copy">
       <div class="research-kicker">AI-Driven Networking</div>
