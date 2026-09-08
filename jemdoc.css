@@ -356,16 +356,43 @@ li p, dd p {
 
 .research-highlights {
     margin: 1.1rem 0 2.8rem;
-    border-top: 1px solid var(--line);
+    display: grid;
+    gap: 1.25rem;
 }
 
 .research-card {
+    position: relative;
     display: grid;
     grid-template-columns: minmax(250px, 0.92fr) minmax(0, 1.35fr);
     gap: 1.55rem;
     align-items: center;
-    padding: 1.5rem 0;
-    border-bottom: 1px solid var(--line);
+    padding: 2.65rem 1.35rem 1.35rem;
+    overflow: hidden;
+    border: 1px solid #d5dee5;
+    border-radius: 12px;
+    background: #fff;
+    box-shadow: 0 5px 18px rgba(24, 54, 79, 0.055);
+}
+
+.research-card::before {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 4px;
+    background: var(--burgundy);
+    content: "";
+}
+
+.research-card::after {
+    position: absolute;
+    top: 0.8rem;
+    left: 1.35rem;
+    color: var(--muted);
+    content: "PROJECT " attr(data-project);
+    font-size: 0.69rem;
+    font-weight: 750;
+    letter-spacing: 0.11em;
 }
 
 .research-card:nth-child(even) {
@@ -661,8 +688,10 @@ div#footer-text {
     .research-card:nth-child(even) {
         grid-template-columns: 1fr;
         gap: 1rem;
-        padding: 1.25rem 0;
+        padding: 2.55rem 0.85rem 1rem;
     }
+
+    .research-card::after { left: 0.85rem; }
 
     .research-card:nth-child(even) .research-figure,
     .research-card:nth-child(even) .research-copy { order: initial; }
